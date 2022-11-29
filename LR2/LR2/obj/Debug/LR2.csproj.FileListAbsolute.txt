@@ -1,0 +1,11 @@
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\obj\Debug\LR2.csproj.AssemblyReference.cache
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\obj\Debug\LR2.Properties.Resources.resources
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\obj\Debug\LR2.csproj.GenerateResource.cache
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\obj\Debug\LR2.csproj.CoreCompileInputs.cache
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\bin\Debug\LR2.exe.config
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\bin\Debug\LR2.exe
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\bin\Debug\LR2.pdb
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\obj\Debug\LR2.Form1.resources
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\obj\Debug\LR2.exe
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\obj\Debug\LR2.pdb
+E:\Studies\Nure\ІІ курс\C#\LR2\LR2\obj\Debug\LR2.Form2.resources
